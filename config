@@ -1,0 +1,4 @@
+Host awshost1
+HostName ec2-52-41-50-65.us-west-2.compute.amazonaws.com
+User ubuntu
+IdentityFile "~/.ssh/awskeypair16Jun16.pem"
