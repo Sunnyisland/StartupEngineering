@@ -22,4 +22,4 @@ echo "Install Emacs"
 git clone https://github.com/startup-class/setup.git
 ./setup/setup.sh
 echo "Install jshint"
-npm install -g jshint
+sudo npm install -g jshint
