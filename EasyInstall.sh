@@ -21,4 +21,5 @@ wget raw.github.com/startup-class/dotfiles/master/.screenrc -O .screenrc
 echo "Install Emacs"
 git clone https://github.com/startup-class/setup.git
 ./setup/setup.sh
-exit
+echo "Install jshint"
+npm install -g jshint
